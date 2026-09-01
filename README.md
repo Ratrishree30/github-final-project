@@ -34,3 +34,5 @@ Therefore, the simple interest is **100**.
 
 This project is created to demonstrate a basic simple interest calculator and practice GitHub repository management.
 
+This project demonstrates a simple interest calculator.
+
